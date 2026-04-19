@@ -114,7 +114,6 @@ Region-wise revenue and retention comparison.
 ## Screenshots
 
 <img width="1157" height="652" alt="Dashboard 1" src="https://github.com/user-attachments/assets/743b3cea-87b6-4220-81fc-c6c2fce19486" />
-<img width="1149" height="641" alt="Dashboard 2" src="https://github.com/user-attachments/assets/5a2ea848-f80a-4775-a59c-ddfefe45a9b1" />
 
 ---
 
